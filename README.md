@@ -3,6 +3,9 @@ SCE
 
 Screen Editor for MSX-DOS
 
+Requirement:
+  MSX2 or later + MSX-DOS
+
 usage:
   SCE <filename> [options]
   
