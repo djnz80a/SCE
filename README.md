@@ -21,7 +21,7 @@ key usage:
 ````
   Up,Down,Left,Right Move Cursor
   Ctrl + Left Move to Line Top
-  Ctrl + RIght  Move to Liine End
+  Ctrl + Right  Move to Line End
   
   Ctrl + D (F1)  Scroll up
   Ctrl + U (F2)  Scroll down
@@ -31,6 +31,7 @@ key usage:
   BS  Backspace
   DEL delete
   
+  Ctrl + @  Play Key Macro
   Ctrl + E  Cut till the End of Line
   Ctrl + K  Cursor to Screen Top Left
   Ctrl + L  File dump Window
@@ -44,4 +45,40 @@ key usage:
   Ctrl + X (F5)  File Window
   Ctrl + Y (F4)  Search Window
   Ctrl + Z (Shift + F5)  Setting Window
+  
+File Window:
+  Save
+  Load
+  Name
+  End
+  
+Setting Window:
+  Line
+  TAB
+  CR
+  Auto TAB
+  Color
+  Logical
+  
+Search Window
+  Search
+  Key Macro
+  
+Mark Window:
+  Mark1
+  Mark2
+  Mark3
+  Mark4
+  
+Jump to Mark Window:
+  Mark1
+  Mark2
+  Mark3
+  Mark4
+
+File Dump Window:
+  Address
+  Dump
+  Name
+  Base
 ````
