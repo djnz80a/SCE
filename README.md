@@ -60,7 +60,7 @@ Setting Window:
   Color
   Logical
   
-Search Window
+Search Window:
   Search
   Key Macro
   
